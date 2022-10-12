@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mern-google-oauth/static/css/main.190a55d8.css",
+    "main.js": "/mern-google-oauth/static/js/main.8f956dd9.js",
+    "static/js/787.702db51d.chunk.js": "/mern-google-oauth/static/js/787.702db51d.chunk.js",
+    "index.html": "/mern-google-oauth/index.html",
+    "main.190a55d8.css.map": "/mern-google-oauth/static/css/main.190a55d8.css.map",
+    "main.8f956dd9.js.map": "/mern-google-oauth/static/js/main.8f956dd9.js.map",
+    "787.702db51d.chunk.js.map": "/mern-google-oauth/static/js/787.702db51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190a55d8.css",
+    "static/js/main.8f956dd9.js"
+  ]
+}

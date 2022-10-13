@@ -1,4 +1,7 @@
 # mern-google-oauth
+* Demo: https://alexaltrex.github.io/mern-google-oauth/
+* Api: https://alexaltrex-common-api.herokuapp.com/oauth2/
+* Api (source code): https://github.com/Alexaltrex/alexaltrex-common-api/
 * Full-stack project with auth by Google Identity Services OAuth 2.0.
 * Front-end: react, @react-oauth/google.
 * Back-end: node-js, express, google-auth-library.

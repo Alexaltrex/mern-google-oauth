@@ -1,0 +1,21 @@
+.app {
+
+ .main {
+   padding: 16px;
+
+   p {
+     text-align: justify;
+     text-align: justify;
+
+     span {
+       font-weight: bold;
+       font-style: italic;
+     }
+
+     &:not(:first-child) {
+       margin-top: 8px;
+     }
+   }
+ }
+
+}
